@@ -11,9 +11,9 @@ Crammer's Rule untuk mencari nilai x, y, z dari matriks 3x3 (beserta kotretan ny
 Misalnya ada matriks sbb :
 
  :---: |:---:|:---:|:---:|:---:|:---:| :---:
-2 | 5 | 5 |  | x |  | 1 
+2 | 5 | 5 | * | x | * | 1 
 -1 | -1 | 0 | = | y | = | 1 
-2 | 4 | 3 |  | z |  | -1 
+2 | 4 | 3 | * | z | * | -1 
 
 1. Masukkan Matriks
 
@@ -33,8 +33,8 @@ Misalnya ada matriks sbb :
 3. Masukkan Hasil Kali dengan Matriks (x,y,z) ordo 3x1
 
     :---:
-     1 
-     1 
-     -1 
+    1 
+    1 
+    -1 
     
 4. Lihat Kotretan, Nilai x, y dan z, dan Hasil Invers nya.
